@@ -3,6 +3,10 @@
 // A rendered version is available at:
 // https://github.com/qutebrowser/qutebrowser/blob/master/README.asciidoc
 
+
+一直在用vimium C ，突然发现这个东西，感觉值得一用。当然，不会vim操作方式者，不推荐。
+===========
+
 qutebrowser
 ===========
 
